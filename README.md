@@ -5,4 +5,4 @@ Codes used in accession number GSE182256 and the reference below.
 The codes are based on R v4.0.2 and Python v3.6.3.
 
 # Reference
-Tomohito Doke, Daniel L. Aldridge, Ya-Wen Yang, Jihwan Park, Christina Hernandez, Amin Abedini, Michael S. Balzer, Rojesh Shrestra, Gaia Coppock, Juan M Inclan Rico, Seung Yub Han, Junhyonk Kim, Sheng Xin, Adrian M. Piliponsky, Veronique Lefebvre, Mark Siracusa, Christopher A. Hunter, Katalin Susztak: Single cell analysis identifies the key role of basophils orchestrating Th17 immunity and kidney fibrosis. Nature Immunology 2022.
+Doke T, Aldridge DL, Yang Y-W, Park J, Hernandez C, Abedini A, Balzer MS, Shrestra R, Coppock G, Inclan Rico JM, Han SY, Kim J, Xin S, Piliponsky AM, Lefebvre V, Siracusa M, Hunter CA, Susztak K. Single cell analysis identifies the key role of basophils orchestrating Th17 immunity and kidney fibrosis. Nature Immunology 2022.
