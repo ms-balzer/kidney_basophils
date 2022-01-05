@@ -1,5 +1,5 @@
 # Description
-Codes used in accession number GSE182256 and the reference below.
+This repository includes the codes used in accession number GSE182256 and the reference below.
 
 # Dependencies
 The codes are based on R v4.0.2 and Python v3.6.3. Package dependencies are given in the respective codes.
