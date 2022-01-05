@@ -1,7 +1,7 @@
 # kidney_basophils
 Codes used in accession number GSE182256 and the reference below.
 
-# R dependencies
+# Dependencies
 The codes are based on R v4.0.2 and Python v3.6.3.
 
 # Reference
