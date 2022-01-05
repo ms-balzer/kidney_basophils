@@ -25,7 +25,6 @@ scv.pl.proportions(adata_sub)
 
 
 #================== Basic preprocessing ==================
-#After basic preprocessing (gene selection and normalization), we compute the first- and second-order moments (means and uncentered variances) for velocity estimation:
 scv.pp.filter_and_normalize(adata_sub)
 scv.pp.moments(adata_sub)
 
@@ -57,6 +56,6 @@ scv.pl.velocity_embedding_stream(adata_sub,
                                  arrow_style='-|>', 
                                  linewidth=1.5, 
                                  title='',
-                                 size=175) #plt.plot() # or other plt plotting functions
+                                 size=175)
 
 
